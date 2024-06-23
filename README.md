@@ -1,7 +1,8 @@
 
 # Customer Complaint Dashboard
 ## Dashboard preview
-![Screenshot 2024-06-23 104443](https://github.com/Tripti-Pratap/powerBI-/assets/160708707/63d52d4d-4bcc-4b1b-a73c-24cc248fd47d)
+![Screenshot 2024-06-23 104443](https://github.com/Tripti-Pratap/Customer-complaint-analysis/assets/160708707/9757b22f-43d8-4feb-b14f-865db9e171b5)
+
 
 ### Overview
 This Power BI dashboard provides insights into customer complaints, aiming to help stakeholders understand complaint trends, prioritize actions, and improve customer satisfaction.
